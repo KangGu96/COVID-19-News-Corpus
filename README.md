@@ -6,8 +6,8 @@ Please cite if you find this paper is helpful.
 
 @
 {SymptomID,
-title = {SymptomID: A Framework for Rapid Symptom Identification in Pandemics Using News Reports},
-authors = {Gu, Kang and Vosoughi, Soroush and Prioleau, Temiloluwa},
-journal={ACM TMIS},
+title = {SymptomID: A Framework for Rapid Symptom Identification in Pandemics Using News Reports}, \\
+authors = {Gu, Kang and Vosoughi, Soroush and Prioleau, Temiloluwa}, \\
+journal={ACM TMIS}, \\
 year={2021}
 }
