@@ -5,7 +5,7 @@ This project contains the collected dataset and annotated subset for our paper: 
 Please cite if you find this paper is helpful.
 
 @
-{SymptomID,
+{SymptomID, \
 title = {SymptomID: A Framework for Rapid Symptom Identification in Pandemics Using News Reports}, \
 authors = {Gu, Kang and Vosoughi, Soroush and Prioleau, Temiloluwa}, \
 journal={ACM TMIS}, \
